@@ -2,3 +2,5 @@
 .gitignore
 .idea/
 __pycache__/
+gmt_in/*
+gmt_out/*
